@@ -12,3 +12,10 @@ body{
     margin:0;
     padding:0;
 }
+.conteudo-principal{
+    background-image:url("./img/Disney-Plus.jpg");
+    background-repeat:no-reapet;
+}
+.container {
+    height: 100vh;
+}
