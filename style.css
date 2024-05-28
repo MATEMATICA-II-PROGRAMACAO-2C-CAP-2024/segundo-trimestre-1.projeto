@@ -15,7 +15,13 @@ body{
 .conteudo-principal{
     background-image:url("./img/Disney-Plus.jpg");
     background-repeat:no-reapet;
+    background-size:cover;
 }
+    .imagem-principal {
+        width: 120px;
+    }
 .container {
     height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
