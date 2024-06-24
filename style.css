@@ -19,9 +19,9 @@ body{
 .conteudo-principal{
     background-image:url("./img/Disney-Plus.jpg");
     background-repeat:no-reapet;
-    background-size:cover;
-    align-items: center;
     text-align:center ;
+    background-size: contain;
+    align-items: center;
 }
     .imagem-principal {
         width: 120px;
