@@ -64,3 +64,19 @@ body{
 .container__caixa{
     margin: 0 6em;
 }
+.secundario-imagem{
+    width: 80%;
+}
+.secao-secundaria{
+    align-items: center;
+    margin:0 10em;
+}
+.container__titulo_2 {
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+    margin-bottom: 0.1em;
+}
+.container__texto{
+    color: var(--cinza-secundario);
+}
